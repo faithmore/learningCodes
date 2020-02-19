@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learnGroup.gradleArtifact.iml" filepath="$PROJECT_DIR$/.idea/modules/learnGroup.gradleArtifact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learnGroup.gradleArtifact.main.iml" filepath="$PROJECT_DIR$/.idea/modules/learnGroup.gradleArtifact.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learnGroup.gradleArtifact.test.iml" filepath="$PROJECT_DIR$/.idea/modules/learnGroup.gradleArtifact.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenArtifact/mavenArtifact.iml" filepath="$PROJECT_DIR$/mavenArtifact/mavenArtifact.iml" />
+    </modules>
+  </component>
+</project>
